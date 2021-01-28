@@ -1,2 +1,2 @@
 # CardsGameSample
- Ejemplo de dispositición de cartas dinámica.
+ Ejemplo de disposición de cartas dinámica.
